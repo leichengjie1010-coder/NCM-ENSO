@@ -1,7 +1,0 @@
-numpy>=1.26
-scipy>=1.11
-pandas>=2.0
-xarray>=2023.1
-netCDF4>=1.6
-torch>=2.2
-matplotlib>=3.8
